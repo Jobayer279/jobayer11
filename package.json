@@ -10,6 +10,6 @@
     "build": "echo \"No build step required for this project.\""
   },
   "dependencies": {
-    "express": "^4.20.0"
+    "express": "^5.1.0"
   }
 }
