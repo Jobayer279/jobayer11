@@ -6,7 +6,8 @@
   "main": "server.js",
   "private": true,
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "echo \"No build step required for this project.\""
   },
   "dependencies": {
     "express": "^4.20.0"
